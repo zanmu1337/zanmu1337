@@ -12,8 +12,9 @@
 │                                                          │
 │  > whoami                                                │
 │                                                          │
-│  Security researcher focused on web app pentesting.      │
-│  I work mainly on APIs, LLMs and cloud infra.            │
+│  Security researcher into webapp pentesting              │
+│  and bug bounty hunting. I work mainly on APIs, LLMs     │
+│  and cloud infra.                                        │
 │                                                          │
 │  OSINT, CTI and DFIR lover                               │
 │  Active directory phobic :(                              │
